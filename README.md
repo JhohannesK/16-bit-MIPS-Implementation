@@ -16,3 +16,5 @@ This CPU is designed to perform basic arithmetic nad logical operations.
  </ul>
 
 It also is able to perform ```immediate instructions``` in addition to ```jump``` and ```branch``` operations.
+
+README credit to Akuaku Edem Jonathan
